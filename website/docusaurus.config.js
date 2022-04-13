@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://bumjin.github.io',
-  baseUrl: '/docusaurus-homepage',
+  baseUrl: '/docusaurus-homepage/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
